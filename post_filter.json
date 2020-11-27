@@ -1,0 +1,24 @@
+{
+	"VARIABLE":["RT%", "buff_0_max_volume"],
+
+	"RT%":
+		{
+			"Current_val" : "0.0-1.0"
+		},
+
+	"RT_BW":
+		{
+			"Current_val" : "5000-8000"
+		},
+
+	"buff_0_max_volume":
+		{
+			"Current_val" : "0-768"
+		},
+
+	"buff_1_max_volume":
+	    {
+		"Current_val": "0-520"
+	    }
+
+}

@@ -1,0 +1,59 @@
+{
+	"VARIABLE":["Display_BW","QOS","CAM_TYPE", "DDR", "TIME"],
+
+	"Display_BW":
+		{
+			"Description": "Display_BW is a display layer. Display_BW increases as number of layers increases",
+			"Default_val" : "4"
+		},
+
+	"QOS":
+		{
+			"Description": "Defines priority level for transactions. There are total 16 levels.",
+			"Default_val" : "5"
+		},
+
+
+	"DDR":
+		{
+			"Description": "DDR freq is RAM freq. Drain rate is directly prortional to DDR_freq",
+			"Default_val" : "2103"
+		},
+
+	"TIME":
+		{
+			"Default_val": "100us"
+		},
+
+	"CAM_TYPE":
+		{
+			"Description": "Broadly, there are total three types of camera: Single, Dual and Triple",
+			"Default_val" : "dual"
+		},
+
+	"RT%":
+		{
+			"Description": "This will truncate x- axis which contains RT% BW and fascilitate in analysing point of inflection.",
+			"Default_val" : "0-1.2"
+		},
+
+	"RT_BW":
+		{
+			"Description": "This is sum total of Video_front_eng_BW and Display_BW. ",
+			"Default_val" : "0-12000"
+		},
+
+	"buff_0_max_volume":
+		{
+			"Description": "This is buffer01 max fill level ",
+			"Default_val" : "0-768"
+		},
+
+	"buff_1_max_volume":
+	    {
+			"Description": "This is buffer01 max fill level ",
+			"Default_val": "0-520"
+	    }
+}
+
+

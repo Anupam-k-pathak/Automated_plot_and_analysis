@@ -1,0 +1,28 @@
+{
+	"VARIABLE":["Display_BW", "CAM_TYPE", "DDR", "QOS", "TIME"],
+
+	"Display_BW":
+		{
+			"Current_val" : ""
+		},
+
+	"QOS":
+		{
+			"Current_val" : ""
+		},
+
+	"DDR":
+		{
+			"Current_val" : ""
+		},
+
+	"CAM_TYPE":
+	{
+		"Current_val": ""
+	},
+
+	"TIME":
+	{
+		"Current_val": "1ms"
+	}
+}

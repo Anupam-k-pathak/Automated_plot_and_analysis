@@ -1,0 +1,31 @@
+{
+	"VARIABLE":["Display_BW","CAM_TYPE", "CAMERA_QOS", "DDR_FREQ"],
+	
+	"Display_BW":
+		{
+			"Description": "sHDSJFL;MHKJSFL;KJDFGLKJDHBF",
+			"Default_val" : "4",
+			"Current_val" : "1-6"
+		},
+		
+	"CAMERA_QOS":
+		{
+			"Description": "sjdhfkjbfucdskufhdshjjdsagjkahdfgkjhadlkfdsafkjhdfs",
+			"Default_val" : "5",
+			"Current_val" : "3"
+		},
+			
+	"DDR_FREQ":
+		{
+			"Description": "dfshgj,skjdfkjlkdsfgjljdskjnkvkn;lfvs",
+			"Default_val" : "2103",
+			"Current_val" : "1600-2000"
+		},	
+
+	"CAM_TYPE":
+		{
+			"Description": "sdjlkjlsdjghlkjfdvlkjlkjshfg",
+			"Default_val" : "dual",
+			"Current_val" :"triple"
+		}
+}
